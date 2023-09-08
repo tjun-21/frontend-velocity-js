@@ -1,3 +1,6 @@
+* {
+    outline: none;
+}
 html, body{
     background:#ffe400;
     margin:0px;
